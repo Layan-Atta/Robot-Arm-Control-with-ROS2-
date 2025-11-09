@@ -97,11 +97,11 @@ ros2 launch arduinobot_description display.launch.xml
 ### Screenshots
 
 #### الوضع الافتراضي للروبوت
-![Task 1 - Initial Position](screenshots/task1_initial_position.png)
+![Task 1 - Initial Position](initialArmPos.jpg)
 *الصورة 3: الروبوت في الوضع الابتدائي مع Joint State Publisher GUI*
 
 #### حركة الروبوت - وضع مختلف
-![Task 1 - Different Position](screenshots/task1_different_position.png)
+![Task 1 - Different Position](newArmPos.jpg)
 *الصورة 4: الروبوت بعد تحريك المفاصل باستخدام الـ sliders*
 
 ### ملاحظات Task 1
@@ -166,10 +166,8 @@ ros2 launch arduinobot_mc demo.launch.py
 
 ### Screenshots
 <!-- أضف screenshots هنا -->
-![Task 2 - MoveIt Interface](screenshots/task2_moveit_interface.png)
-![Task 2 - Planning](screenshots/task2_planning.png)
-![Task 2 - Execution](screenshots/task2_execution.png)
-
+![Task 2 - MoveIt Interface](interactiveArm.jpg)
+![Task 2 - Planning](intArmAfter.jpg)
 ---
 
 ## البنية الهيكلية للمشروع
